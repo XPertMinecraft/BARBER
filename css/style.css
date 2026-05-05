@@ -300,7 +300,6 @@ header{
     top: 350px;
     opacity: 0%;
     transition: 1s;
-    border: 1px solid white;
 }
 .hist_item.item_anim{
     top: 0;
